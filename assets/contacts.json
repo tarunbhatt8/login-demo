@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tarun",
+    "email": "tarun@apple.com",
+    "password": "1234"
+  },
+  {
+    "name": "Mayank",
+    "email": "mayank@codeninja.com",
+    "password": "4567"
+  },
+  {
+    "name": "Udit",
+    "email": "udit@infy.com",
+    "password": "7890"
+  },
+  {
+    "name": "Mohan",
+    "email": "mohan@rainwater.com",
+    "password": "4321"
+  }
+]
